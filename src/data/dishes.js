@@ -140,7 +140,7 @@ const DISHES = [
     {
         id: 3,
         name: 'Chiken Bar B Q Pizza',
-        image: 'assets/images/3cheken.jpg',
+        image: 'assets/images/3chicken.jpg',
         category: 'meal',
         label: 'Hot',
         price: '199',
