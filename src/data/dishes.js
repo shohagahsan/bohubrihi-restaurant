@@ -64,28 +64,28 @@ const DISHES = [
             {
                 id: 1,
                 rating: 4,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 2,
                 rating: 3,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 3,
                 rating: 2,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 4,
                 rating: 1,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             }
@@ -103,35 +103,35 @@ const DISHES = [
             {
                 id: 0,
                 rating: 5,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2018-10-16T17:57:28.556094Z'
             },
             {
                 id: 1,
                 rating: 4,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 2,
                 rating: 3,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 3,
                 rating: 2,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 4,
                 rating: 1,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             }
@@ -149,35 +149,35 @@ const DISHES = [
             {
                 id: 0,
                 rating: 5,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2018-10-16T17:57:28.556094Z'
             },
             {
                 id: 1,
                 rating: 4,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 2,
                 rating: 3,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 3,
                 rating: 2,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             },
             {
                 id: 4,
                 rating: 1,
-                comment: '',
+                comment: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
                 author: 'Shanto',
                 date: '2017-10-16T17:57:28.556094Z'
             }
